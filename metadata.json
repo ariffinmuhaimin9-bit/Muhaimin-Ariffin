@@ -1,0 +1,6 @@
+{
+  "name": "SMK St. Mary Library",
+  "description": "Library Management System for SMK St. Mary with role-based login, interactive staff borrow/return management, fine tracking, and admin controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
